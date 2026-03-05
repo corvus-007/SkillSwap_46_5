@@ -1,5 +1,5 @@
-import type {FC} from 'react';
+import type { FC } from 'react'
 
 export const LoginPage: FC = () => {
-  return (<h1>LoginPage</h1>)
+  return <h1>LoginPage</h1>
 }

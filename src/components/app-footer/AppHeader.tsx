@@ -1,5 +1,5 @@
-import type {FC} from 'react';
+import type { FC } from 'react'
 
 export const AppHeader: FC = () => {
-  return (<header>AppHeader</header>)
+  return <header>AppHeader</header>
 }
